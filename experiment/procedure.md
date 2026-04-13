@@ -8,7 +8,7 @@
 								<p>
 								<ol type="1">
 								<li>Connect the circuit as shown in the diagram in figure 1.</li>
-								<br><li>Adjust the rheostat for maximum resistance and the auto transformer to the position of zero-output voltage and switch on the supply.</li> 
+								<br><li>Adjust the rheostat for maximum resistance and the auto transformer to the position of zero-output voltage and switch on the supply. Close the switch (K) by selecting the “Closed” option from the dropdown menu located near the switch in the circuit.</li> 
 								<br><li>Adjust the voltage across the circuit to about 70 V and note I, V<sub>s</sub>, V<sub>L</sub>, V<sub>C</sub>, V<sub>R</sub> and W.</li>
 								<br><li> Adjust the rheostat for several settings and repeat step 3.</li>
 								<br><li>Adjust the rheostat to the maximum setting and change the capacitance to 140 μF and repeat step 4.</li>
